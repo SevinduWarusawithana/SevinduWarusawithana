@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sevindu Warusawithana</h1>
-- 🌱 I’m currently learning ** JavaScript, Python, C# **
+- 🌱 I’m currently learning  ** JavaScript, Python, C# **
 
 - 📫 How to reach me **randeepsevindu@gmail.com**
 

@@ -3,7 +3,9 @@
 
 - 📫 How to reach me **randeepsevindu@gmail.com**
 
-- ⚡ Fun fact **Call me Samsung**
+- 🥷🏻 Nick name **TOSHIRO**
+
+- ⚡ Fun fact **I'm not a hacker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

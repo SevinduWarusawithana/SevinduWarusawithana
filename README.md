@@ -5,11 +5,11 @@
 
 - 🥷🏻 Nick name **TOSHIRO**
 
-- ⚡ Fun fact **I'm not a hacker**
+- ⚡ Fun fact **Yes, I'm using Kali Linux. But I'm not a hacker.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Sevindu Warusawithana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sevindu warusawithana" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sevinduwarusawithana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sevindu warusawithana" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -7,7 +7,7 @@
 
 - 🥷🏻 Nick name TOSHIRO
 
-- ☢️ Yes, I'm using Kali Linux. But hat doesn't mean I'm a hacker.
+- ☢️ Yes, I'm using Kali Linux. But that doesn't mean I'm a hacker.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

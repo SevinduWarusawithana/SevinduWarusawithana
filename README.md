@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sevindu Warusawithana</h1>
-<h3 align="center">Currently I'm a student at Staffordshire University studying BSc (Hons) Cyber Security</h3>
+<h3 align="center">Currently, I'm a student at Staffordshire University studying BSc (Hons) Cyber Security.</h3>
 
 - 🌱 I’m currently learning **JavaScript, C#**
 
 - 📫 How to reach me **randeepsevindu@gmail.com**
+
+- 🥷🏻 Nick name TOSHIRO
+
+- ☢️Yes, I'm using Kali Linux. But hat doesn't mean I'm a hacker.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

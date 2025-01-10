@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sevindu Warusawithana</h1>
-<h3 align="center">Currently, I'm a student at Staffordshire University studying BSc (Hons) Cyber Security.</h3>
+<h3 align="center">Currently, I'm a student at University of Staffordshire studying BSc (Hons) Cyber Security.</h3>
 
 - 📫 How to reach me **randeepsevindu@gmail.com**
 
